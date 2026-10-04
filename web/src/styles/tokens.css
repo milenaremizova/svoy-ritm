@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700;800&display=swap");
+
+:root {
+  --color-blue: #00adff;
+  --color-blue-tint: #e0f5ff;
+  --color-blue-deep: #0088cc;
+  --color-coin: #fcd300;
+  --color-coin-deep: #e8b000;
+  --color-orange: #fe9939;
+  --color-orange-tint: #fff0e1;
+  --color-green: #009050;
+  --color-green-tint: #ebf6f1;
+  --color-red: #ef544a;
+  --color-red-tint: #fdeceb;
+  --color-frost: #5b8dc9;
+  --color-ink: #21201f;
+  --color-ink-2: #8a8784;
+  --color-surface: #f8f7f5;
+  --color-field: #efeeed;
+  --color-line: #d2d0cc;
+  --color-bg: #ffffff;
+
+  --radius-m: 16px;
+  --radius-l: 24px;
+  --radius-pill: 999px;
+
+  --font-family: "Onest", "Inter", sans-serif;
+}

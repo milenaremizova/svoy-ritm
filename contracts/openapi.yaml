@@ -1,0 +1,63 @@
+openapi: 3.0.3
+info:
+  title: Свой ритм API
+  version: 0.1.0
+paths:
+  /api/orders:
+    post:
+      summary: Создать оплаченный заказ (звено «в пути»)
+      responses:
+        "200":
+          description: OK
+  /api/orders/{id}/deliver:
+    post:
+      summary: Отметить заказ доставленным — засчитать звено
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: OK
+  /api/orders/{id}/cancel:
+    post:
+      summary: Отменить заказ до доставки
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: OK
+  /api/streak:
+    get:
+      summary: Текущее состояние серии
+      responses:
+        "200":
+          description: OK
+  /api/streak/history:
+    get:
+      summary: История звеньев, заморозок, обрывов
+      responses:
+        "200":
+          description: OK
+  /api/wallet:
+    get:
+      summary: Баланс монеток
+      responses:
+        "200":
+          description: OK
+  /api/dev/clock:
+    post:
+      summary: Перемотать демо-время (только для панели демо)
+      responses:
+        "200":
+          description: OK
+  /api/dev/reset:
+    post:
+      summary: Сбросить данные демо-пользователя
+      responses:
+        "200":
+          description: OK

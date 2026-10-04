@@ -1,0 +1,406 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2784" viewBox="0 0 1600 2784" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmZTdhYjI2Yy04YjI3LTRiZDMtOTQ1OS05NWI4YjljNjljYzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIwiHzEmBI+GmmLSaKyd6A0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxZGNkZGVmMi1iNmVmLTRmM2QtOTc0Mi1lYmM0YjY1YWMxNzJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoyCwDYTwxaqgsPXfF+3dpPAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg8hloCHRVdVZCf/NjUJMj1J6ghCCtjCT57bhJqf6CwFykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKGAQTMXD7qbBiZo+EizOsYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDnTqiYYphsUUZ/3sA8p0Cu4tm8fljxP6DY3ebIasRhQ2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmZlN2FiMjZjLThiMjctNGJkMy05NDU5LTk1YjhiOWM2OWNjMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRkNDY1M2QyLWZiYjYtNDM3My04MmYyLTliN2FiNzI1MmE3OHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDyGWgIdFV1VkJ/82NQkyPUnqCEIK2MJPntuEmp/oLAXKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHkYtucoKqxBAFm97bI3tfk2gorQCimwVqZugJt97sEyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggBi7sJ+c3xmUB5QwIPBnrFtqR+8WJQ/w9xZOgInqhLqZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMoFiZcCr6Zyo5yoVBEVNO1QQszbyQo4o6uVTn+O9BLaqhfuqQOX7TdFpuv31pmFq5ZHyzJcUJ5evYE8hUlqBcc=</c2pa:manifest></metadata><rect id="background" width="1600" height="2784" fill="#FFFFFF"/><text x="80" y="96" font-family="Onest, Inter, Arial, sans-serif" font-size="44" font-weight="800" fill="#21201F" text-anchor="start" >UI-кит «Свой ритм»</text>
+<text x="80" y="132" font-family="Onest, Inter, Arial, sans-serif" font-size="16" font-weight="400" fill="#8A8784" text-anchor="start" >Токены и компоненты для вёрстки в стиле Лавки. Шрифт Onest (OFL) вместо закрытого YS Text. Цвета сняты пипеткой со скриншотов приложения.</text>
+<text x="80" y="204" font-family="Onest, Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#21201F" text-anchor="start" >Цвета</text>
+<text x="80" y="234" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#8A8784" text-anchor="start" >Акцент фичи — синий Лавки; монетка — CTA и награды; красный — только для «под угрозой».</text>
+<g id="color/Синий Лавки"><rect x="80" y="270" width="216" height="72" rx="16" fill="#00ADFF" stroke="#00ADFF" stroke-width="1"/>
+<text x="80" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Синий Лавки</text>
+<text x="296" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#00ADFF</text>
+<text x="80" y="388" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >акцент ритма</text></g>
+<g id="color/Монетка"><rect x="320" y="270" width="216" height="72" rx="16" fill="#FCD300" stroke="#FCD300" stroke-width="1"/>
+<text x="320" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Монетка</text>
+<text x="536" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#FCD300</text>
+<text x="320" y="388" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >CTA, награды</text></g>
+<g id="color/Оранжевый"><rect x="560" y="270" width="216" height="72" rx="16" fill="#FE9939" stroke="#FE9939" stroke-width="1"/>
+<text x="560" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Оранжевый</text>
+<text x="776" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#FE9939</text>
+<text x="560" y="388" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >промо, вехи</text></g>
+<g id="color/Зелёный"><rect x="800" y="270" width="216" height="72" rx="16" fill="#009050" stroke="#009050" stroke-width="1"/>
+<text x="800" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Зелёный</text>
+<text x="1016" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#009050</text>
+<text x="800" y="388" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >засчитано</text></g>
+<g id="color/Красный"><rect x="1040" y="270" width="216" height="72" rx="16" fill="#EF544A" stroke="#EF544A" stroke-width="1"/>
+<text x="1040" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Красный</text>
+<text x="1256" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#EF544A</text>
+<text x="1040" y="388" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >под угрозой</text></g>
+<g id="color/Морозный"><rect x="1280" y="270" width="216" height="72" rx="16" fill="#5B8DC9" stroke="#5B8DC9" stroke-width="1"/>
+<text x="1280" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Морозный</text>
+<text x="1496" y="368" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#5B8DC9</text>
+<text x="1280" y="388" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >заморозка</text></g>
+<g id="color/Текст"><rect x="80" y="420" width="216" height="72" rx="16" fill="#21201F" stroke="#21201F" stroke-width="1"/>
+<text x="80" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Текст</text>
+<text x="296" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#21201F</text>
+<text x="80" y="538" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >основной</text></g>
+<g id="color/Текст 2"><rect x="320" y="420" width="216" height="72" rx="16" fill="#8A8784" stroke="#8A8784" stroke-width="1"/>
+<text x="320" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Текст 2</text>
+<text x="536" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#8A8784</text>
+<text x="320" y="538" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >вторичный</text></g>
+<g id="color/Граница"><rect x="560" y="420" width="216" height="72" rx="16" fill="#D2D0CC" stroke="#D2D0CC" stroke-width="1"/>
+<text x="560" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Граница</text>
+<text x="776" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#D2D0CC</text>
+<text x="560" y="538" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >обводки</text></g>
+<g id="color/Поле"><rect x="800" y="420" width="216" height="72" rx="16" fill="#EFEEED" stroke="#D2D0CC" stroke-width="1"/>
+<text x="800" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Поле</text>
+<text x="1016" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#EFEEED</text>
+<text x="800" y="538" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >поиск, трек</text></g>
+<g id="color/Поверхность"><rect x="1040" y="420" width="216" height="72" rx="16" fill="#F8F7F5" stroke="#D2D0CC" stroke-width="1"/>
+<text x="1040" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Поверхность</text>
+<text x="1256" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#F8F7F5</text>
+<text x="1040" y="538" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >карточки</text></g>
+<g id="color/Фон"><rect x="1280" y="420" width="216" height="72" rx="16" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="1"/>
+<text x="1280" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Фон</text>
+<text x="1496" y="518" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >#FFFFFF</text>
+<text x="1280" y="538" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#8A8784" text-anchor="start" >экран</text></g>
+<text x="80" y="600" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Тинты для фонов карточек:</text>
+<rect x="320" y="578" width="40" height="32" rx="10" fill="#E0F5FF" stroke="#D2D0CC"/>
+<text x="372" y="592" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#21201F" text-anchor="start" >#E0F5FF</text>
+<text x="372" y="609" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#8A8784" text-anchor="start" >активна</text>
+<rect x="560" y="578" width="40" height="32" rx="10" fill="#FDECEB" stroke="#D2D0CC"/>
+<text x="612" y="592" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#21201F" text-anchor="start" >#FDECEB</text>
+<text x="612" y="609" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#8A8784" text-anchor="start" >под угрозой</text>
+<rect x="800" y="578" width="40" height="32" rx="10" fill="#E7F0FA" stroke="#D2D0CC"/>
+<text x="852" y="592" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#21201F" text-anchor="start" >#E7F0FA</text>
+<text x="852" y="609" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#8A8784" text-anchor="start" >заморожена</text>
+<rect x="1040" y="578" width="40" height="32" rx="10" fill="#FFF0E1" stroke="#D2D0CC"/>
+<text x="1092" y="592" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#21201F" text-anchor="start" >#FFF0E1</text>
+<text x="1092" y="609" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#8A8784" text-anchor="start" >новый уровень</text>
+<rect x="1280" y="578" width="40" height="32" rx="10" fill="#EBF6F1" stroke="#D2D0CC"/>
+<text x="1332" y="592" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#21201F" text-anchor="start" >#EBF6F1</text>
+<text x="1332" y="609" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#8A8784" text-anchor="start" >засчитано</text>
+<text x="80" y="682" font-family="Onest, Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#21201F" text-anchor="start" >Типографика</text>
+<text x="80" y="712" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#8A8784" text-anchor="start" >Onest: заголовки жирные и плотные, как в Лавке; текст — Regular, без капса.</text>
+<g id="type/Display"><text x="80" y="773.6" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Display · 32/36 · ExtraBold</text><text x="400" y="773.6" font-family="Onest, Inter, Arial, sans-serif" font-size="32" font-weight="800" fill="#21201F" text-anchor="start" >до четверга, 8 октября</text></g>
+<g id="type/H1"><text x="80" y="821.2" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >H1 · 24/28 · Bold</text><text x="400" y="821.2" font-family="Onest, Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#21201F" text-anchor="start" >Ваш ритм найден</text></g>
+<g id="type/H2"><text x="80" y="862.4" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >H2 · 18/22 · SemiBold</text><text x="400" y="862.4" font-family="Onest, Inter, Arial, sans-serif" font-size="18" font-weight="600" fill="#21201F" text-anchor="start" >Следующая остановка</text></g>
+<g id="type/Body"><text x="80" y="900.0" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Body · 15/20 · Regular</text><text x="400" y="900.0" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#21201F" text-anchor="start" >Ровер едет, пока вы заказываете в своём ритме</text></g>
+<g id="type/Caption"><text x="80" y="938.4" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Caption · 13/16 · Medium</text><text x="400" y="938.4" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#21201F" text-anchor="start" >засчитается после доставки</text></g>
+<g id="type/Micro"><text x="80" y="976.8" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Micro · 11/14 · SemiBold</text><text x="400" y="976.8" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#21201F" text-anchor="start" >4 из 8</text></g>
+<text x="80" y="1080" font-family="Onest, Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#21201F" text-anchor="start" >Скругления и отступы</text>
+<text x="80" y="1110" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#8A8784" text-anchor="start" >Шаг сетки 4. Карточки 20–24, чипы и кнопки — «пилюля».</text>
+<rect x="80" y="1146" width="120" height="80" rx="8" fill="#F8F7F5" stroke="#D2D0CC"/>
+<text x="140" y="1192" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >r 8</text>
+<rect x="230" y="1146" width="120" height="80" rx="12" fill="#F8F7F5" stroke="#D2D0CC"/>
+<text x="290" y="1192" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >r 12</text>
+<rect x="380" y="1146" width="120" height="80" rx="16" fill="#F8F7F5" stroke="#D2D0CC"/>
+<text x="440" y="1192" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >r 16</text>
+<rect x="530" y="1146" width="120" height="80" rx="20" fill="#F8F7F5" stroke="#D2D0CC"/>
+<text x="590" y="1192" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >r 20</text>
+<rect x="680" y="1146" width="120" height="80" rx="24" fill="#F8F7F5" stroke="#D2D0CC"/>
+<text x="740" y="1192" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >r 24</text>
+<rect x="830" y="1146" width="120" height="80" rx="40" fill="#F8F7F5" stroke="#D2D0CC"/>
+<text x="890" y="1192" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >pill</text>
+<rect x="1000" y="1146" width="24" height="8" rx="4" fill="#00ADFF" opacity="0.7"/>
+<text x="1034" y="1154" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#8A8784" text-anchor="start" >4</text>
+<rect x="1000" y="1160" width="48" height="8" rx="4" fill="#00ADFF" opacity="0.7"/>
+<text x="1058" y="1168" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#8A8784" text-anchor="start" >8</text>
+<rect x="1000" y="1174" width="72" height="8" rx="4" fill="#00ADFF" opacity="0.7"/>
+<text x="1082" y="1182" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#8A8784" text-anchor="start" >12</text>
+<rect x="1000" y="1188" width="96" height="8" rx="4" fill="#00ADFF" opacity="0.7"/>
+<text x="1106" y="1196" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#8A8784" text-anchor="start" >16</text>
+<rect x="1000" y="1202" width="144" height="8" rx="4" fill="#00ADFF" opacity="0.7"/>
+<text x="1154" y="1210" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#8A8784" text-anchor="start" >24</text>
+<rect x="1000" y="1216" width="192" height="8" rx="4" fill="#00ADFF" opacity="0.7"/>
+<text x="1202" y="1224" font-family="Onest, Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#8A8784" text-anchor="start" >32</text>
+<text x="80" y="1318" font-family="Onest, Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#21201F" text-anchor="start" >Ровер — талисман серии</text>
+<text x="80" y="1348" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#8A8784" text-anchor="start" >Своя иллюстрация по мотивам ровера Лавки, без логотипов. Каждое состояние — отдельная группа для экспорта.</text>
+<g id="rover-states">
+<g id="rover/default" transform="translate(80 1384) scale(1.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g>
+<text x="158" y="1534" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >по умолчанию</text>
+<g id="rover/moving"><line x1="314" y1="1444" x2="338" y2="1444" stroke="#00ADFF" stroke-width="4" stroke-linecap="round"/><line x1="310" y1="1458" x2="334" y2="1458" stroke="#00ADFF" stroke-width="4" stroke-linecap="round"/><line x1="306" y1="1472" x2="330" y2="1472" stroke="#00ADFF" stroke-width="4" stroke-linecap="round"/><g id="rover/moving/body" transform="translate(330 1384) scale(1.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g></g>
+<text x="408" y="1534" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >в пути</text>
+<g id="rover/charging"><g id="rover/charging/body" transform="translate(560 1390) scale(1.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#5B8DC9"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><g id="battery" transform="translate(656 1374) scale(1.1)">
+  <rect x="0" y="0" width="34" height="18" rx="5" fill="#FFFFFF" stroke="#21201F" stroke-width="2.5"/>
+  <rect x="34" y="5.5" width="4" height="7" rx="1.5" fill="#21201F"/>
+  <rect x="4" y="4" width="26" height="10" rx="2.5" fill="#009050"/>
+  <path d="M19 5 L13 10 H17 L15 14 L21 8.5 H17 Z" fill="#FFFFFF"/>
+</g></g>
+<text x="638" y="1534" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >на зарядке</text>
+<g id="rover/garage"><path d="M794 1512 V1434 Q878 1358 962 1434 V1512" fill="#F8F7F5" stroke="#D2D0CC" stroke-width="3"/><g id="rover/garage/body" transform="translate(810 1396) scale(1.2)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#D2D0CC"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#D2D0CC" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g></g>
+<text x="878" y="1534" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >в гараже</text>
+<g id="rover/trailer"><rect x="1060" y="1446" width="46" height="34" rx="9" fill="#FFF0E1" stroke="#21201F" stroke-width="3"/><circle cx="1083" cy="1463" r="9" fill="#FCD300" stroke="#E8B000" stroke-width="2"/><circle cx="1083" cy="1463" r="4.95" fill="none" stroke="#E8B000" stroke-width="1.6"/><circle cx="1083" cy="1488" r="7" fill="#21201F"/><line x1="1106" y1="1468" x2="1124" y2="1468" stroke="#21201F" stroke-width="3"/><g id="rover/trailer/body" transform="translate(1104 1384) scale(1.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g></g>
+<text x="1180" y="1534" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >новый уровень</text>
+<g id="rover/celebrate"><rect x="1340" y="1394" width="9" height="9" rx="2" fill="#FCD300" transform="rotate(20 1344 1398)"/><rect x="1490" y="1384" width="9" height="9" rx="2" fill="#00ADFF" transform="rotate(20 1494 1388)"/><rect x="1360" y="1474" width="9" height="9" rx="2" fill="#FE9939" transform="rotate(20 1364 1478)"/><rect x="1500" y="1484" width="9" height="9" rx="2" fill="#FCD300" transform="rotate(20 1504 1488)"/><rect x="1410" y="1370" width="9" height="9" rx="2" fill="#EF544A" transform="rotate(20 1414 1374)"/><rect x="1470" y="1434" width="9" height="9" rx="2" fill="#009050" transform="rotate(20 1474 1438)"/><g id="rover/celebrate/body" transform="translate(1350 1390) scale(1.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g></g>
+<text x="1428" y="1534" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >засчитано</text>
+</g>
+<text x="80" y="1636" font-family="Onest, Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#21201F" text-anchor="start" >Компоненты</text>
+<text x="80" y="1666" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#8A8784" text-anchor="start" >Размеры в pt для экрана 375. Все состояния, которые встречаются в MVP.</text>
+<text x="80" y="1702" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Чип ритма · шапка главной</text>
+<g id="chip/default"><rect x="80" y="1718" width="168" height="40" rx="20" fill="#E0F5FF" stroke="#00ADFF" stroke-width="1.5"/><g id="chip/default/rover" transform="translate(86 1722) scale(0.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><text x="132" y="1744" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#21201F" text-anchor="start" >4 · до чт</text></g>
+<g id="chip/at-risk"><rect x="280" y="1718" width="168" height="40" rx="20" fill="#FDECEB" stroke="#EF544A" stroke-width="1.5"/><g id="chip/at-risk/rover" transform="translate(286 1722) scale(0.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><text x="332" y="1744" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#EF544A" text-anchor="start" >4 · ещё 6 ч</text></g>
+<g id="chip/in-transit"><rect x="480" y="1718" width="168" height="40" rx="20" fill="#EBF6F1" stroke="#009050" stroke-width="1.5"/><g id="chip/in-transit/rover" transform="translate(486 1722) scale(0.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><text x="532" y="1744" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#009050" text-anchor="start" >в пути</text></g>
+<g id="chip/broken"><rect x="680" y="1718" width="168" height="40" rx="20" fill="#F8F7F5" stroke="#D2D0CC" stroke-width="1.5"/><g id="chip/broken/rover" transform="translate(686 1722) scale(0.3)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#D2D0CC"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><text x="732" y="1744" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#8A8784" text-anchor="start" >в гараже</text></g>
+<g id="coins/pill"><rect x="900" y="1718" width="120" height="40" rx="20" fill="#FFFFFF" stroke="#EFEEED" stroke-width="2"/><circle cx="922" cy="1738" r="11" fill="#FCD300" stroke="#E8B000" stroke-width="2"/><circle cx="922" cy="1738" r="6.050000000000001" fill="none" stroke="#E8B000" stroke-width="1.6"/><text x="942" y="1744" font-family="Onest, Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#21201F" text-anchor="start" >4 773</text></g>
+<text x="900" y="1702" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Баланс монеток</text>
+<text x="80" y="1798" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Кнопки</text>
+<g id="button/primary"><rect x="80" y="1814" width="260" height="52" rx="26" fill="#FCD300" /><text x="210" y="1846" font-family="Onest, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#21201F" text-anchor="middle" >Поехали</text></g>
+<g id="button/secondary"><rect x="370" y="1814" width="260" height="52" rx="26" fill="#F8F7F5" /><text x="500" y="1846" font-family="Onest, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#21201F" text-anchor="middle" >Выбрать позже</text></g>
+<g id="button/outline"><rect x="660" y="1814" width="260" height="52" rx="26" fill="#FFFFFF" stroke="#00ADFF" stroke-width="2"/><text x="790" y="1846" font-family="Onest, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0088CC" text-anchor="middle" >Начать заново</text></g>
+<g id="button/disabled"><rect x="950" y="1814" width="260" height="52" rx="26" fill="#EFEEED" /><text x="1080" y="1846" font-family="Onest, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#8A8784" text-anchor="middle" >Не хватает монет</text></g>
+<text x="80" y="1906" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Карточка дедлайна · верх экрана ритма</text>
+<g id="deadline-card/active"><rect x="80" y="1922" width="440" height="96" rx="24" fill="#E0F5FF" stroke="#00ADFF" stroke-width="1.5"/><text x="104" y="1958" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="start" >Следующая остановка</text><text x="104" y="1992" font-family="Onest, Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#21201F" text-anchor="start" >до чт, 8 октября</text><text x="496" y="1958" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#21201F" text-anchor="end" >4 из 8</text></g>
+<g id="deadline-card/at-risk"><rect x="550" y="1922" width="440" height="96" rx="24" fill="#FDECEB" stroke="#EF544A" stroke-width="1.5"/><text x="574" y="1958" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="start" >Осталось 6 часов</text><text x="574" y="1992" font-family="Onest, Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#EF544A" text-anchor="start" >закажите до 21:00</text><text x="966" y="1958" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#21201F" text-anchor="end" >4 из 8</text></g>
+<g id="deadline-card/frozen"><rect x="1020" y="1922" width="440" height="96" rx="24" fill="#E7F0FA" stroke="#5B8DC9" stroke-width="1.5"/><text x="1044" y="1958" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="start" >Серию спасла зарядка</text><text x="1044" y="1992" font-family="Onest, Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#21201F" text-anchor="start" >новый дедлайн — ср</text><text x="1436" y="1958" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#21201F" text-anchor="end" >1 зарядка</text></g>
+<g id="deadline-card/broken"><rect x="80" y="2042" width="440" height="96" rx="24" fill="#F8F7F5" stroke="#D2D0CC" stroke-width="1.5"/><text x="104" y="2078" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="start" >Ровер в гараже</text><text x="104" y="2112" font-family="Onest, Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#21201F" text-anchor="start" >лучший маршрут: 9</text></g>
+<g id="deadline-card/level-up"><rect x="550" y="2042" width="440" height="96" rx="24" fill="#FFF0E1" stroke="#FE9939" stroke-width="1.5"/><text x="574" y="2078" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="start" >Новый уровень</text><text x="574" y="2112" font-family="Onest, Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#21201F" text-anchor="start" >остановка от 620 ₽</text><text x="966" y="2078" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#21201F" text-anchor="end" >×1,5</text></g>
+<text x="80" y="2182" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Маршрут · остановки и сегменты</text>
+<g id="route/stop-done"><circle cx="96" cy="2222" r="16" fill="#00ADFF"/><path d="M89 2222 l5 5 l9 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="route/stop-next"><circle cx="176" cy="2222" r="22" fill="#00ADFF" opacity="0.18"/><circle cx="176" cy="2222" r="14" fill="#FFFFFF" stroke="#00ADFF" stroke-width="4"/></g>
+<g id="route/stop-future"><circle cx="256" cy="2222" r="14" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="3"/></g>
+<g id="route/segment-done"><line x1="320" y1="2222" x2="440" y2="2222" stroke="#00ADFF" stroke-width="6" stroke-linecap="round"/></g>
+<g id="route/segment-future"><line x1="480" y1="2222" x2="600" y2="2222" stroke="#D2D0CC" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round"/></g>
+<g id="route/finish"><line x1="660" y1="2240" x2="660" y2="2196" stroke="#21201F" stroke-width="3" stroke-linecap="round"/><path d="M660 2196 h28 l-7 9 l7 9 h-28 z" fill="#FCD300" stroke="#21201F" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="96" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="middle" >пройдена</text>
+<text x="176" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="middle" >следующая</text>
+<text x="256" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="middle" >впереди</text>
+<text x="380" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="middle" >пройдено</text>
+<text x="540" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="middle" >впереди</text>
+<text x="670" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="middle" >финиш</text>
+<g id="progress/segments"><rect x="860" y="2216" width="38" height="12" rx="6" fill="#00ADFF" /><rect x="904" y="2216" width="38" height="12" rx="6" fill="#00ADFF" /><rect x="948" y="2216" width="38" height="12" rx="6" fill="#00ADFF" /><rect x="992" y="2216" width="38" height="12" rx="6" fill="#00ADFF" /><rect x="1036" y="2216" width="38" height="12" rx="6" fill="#E0F5FF" stroke="#00ADFF" stroke-width="2" stroke-dasharray="4 3"/><rect x="1080" y="2216" width="38" height="12" rx="6" fill="#EFEEED" /><rect x="1124" y="2216" width="38" height="12" rx="6" fill="#EFEEED" /><rect x="1168" y="2216" width="38" height="12" rx="6" fill="#EFEEED" /></g>
+<text x="860" y="2272" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#8A8784" text-anchor="start" >сегменты цели: пройдено / этот заказ / впереди</text>
+<text x="80" y="2322" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Строка в корзине</text>
+<text x="620" y="2322" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Карточка цели</text>
+<text x="1180" y="2322" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Тумблер и одометр</text>
+<g id="cart-rhythm-row"><rect x="80" y="2338" width="500" height="112" rx="24" fill="#E0F5FF" stroke="#00ADFF" stroke-width="1.5"/><g id="cart-rhythm-row/rover" transform="translate(96 2350) scale(0.42)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><text x="156" y="2378" font-family="Onest, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#21201F" text-anchor="start" >Станет 5-й остановкой</text><rect x="104" y="2396" width="25" height="8" rx="4" fill="#00ADFF" /><rect x="134" y="2396" width="25" height="8" rx="4" fill="#00ADFF" /><rect x="164" y="2396" width="25" height="8" rx="4" fill="#00ADFF" /><rect x="194" y="2396" width="25" height="8" rx="4" fill="#00ADFF" /><rect x="224" y="2396" width="25" height="8" rx="4" fill="#FFFFFF" stroke="#00ADFF" stroke-width="1.5"/><rect x="254" y="2396" width="25" height="8" rx="4" fill="#EFEEED" /><rect x="284" y="2396" width="25" height="8" rx="4" fill="#EFEEED" /><rect x="314" y="2396" width="25" height="8" rx="4" fill="#EFEEED" /><text x="104" y="2432" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >+15–40 монеток</text><circle cx="256" cy="2427" r="8" fill="#FCD300" stroke="#E8B000" stroke-width="2"/><circle cx="256" cy="2427" r="4.4" fill="none" stroke="#E8B000" stroke-width="1.6"/><text x="556" y="2432" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="end" >засчитается после доставки</text></g>
+<g id="goal-card/default"><rect x="620" y="2338" width="500" height="52" rx="18" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="1.5"/><text x="644" y="2370" font-family="Onest, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#21201F" text-anchor="start" >5 остановок</text><text x="1096" y="2370" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >до 22 октября</text></g>
+<g id="goal-card/selected"><rect x="620" y="2402" width="500" height="52" rx="18" fill="#E0F5FF" stroke="#00ADFF" stroke-width="2"/><text x="644" y="2434" font-family="Onest, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#21201F" text-anchor="start" >8 остановок</text><text x="1096" y="2434" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="end" >до 2 ноября</text></g>
+<g id="toggle/off"><rect x="1180" y="2338" width="52" height="32" rx="16" fill="#EFEEED"/><circle cx="1196" cy="2354" r="12" fill="#FFFFFF"/></g>
+<g id="toggle/on"><rect x="1250" y="2338" width="52" height="32" rx="16" fill="#00ADFF"/><circle cx="1286" cy="2354" r="12" fill="#FFFFFF"/></g>
+<text x="1320" y="2360" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#21201F" text-anchor="start" >Чуть чаще</text>
+<g id="odometer"><rect x="1180" y="2394" width="52" height="68" rx="14" fill="#F8F7F5" stroke="#D2D0CC" stroke-width="1.5"/><rect x="1240" y="2394" width="52" height="68" rx="14" fill="#E0F5FF" stroke="#00ADFF" stroke-width="2"/><text x="1206" y="2440" font-family="Onest, Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="#21201F" text-anchor="middle" >0</text><text x="1266" y="2440" font-family="Onest, Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="#21201F" text-anchor="middle" >5</text></g>
+<text x="1306" y="2434" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#8A8784" text-anchor="start" >остановок</text>
+<text x="80" y="2488" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Плитка на главной (доп.)</text>
+<text x="380" y="2488" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#8A8784" text-anchor="start" >Кнопки демо-панели</text>
+<g id="home-tile"><rect x="80" y="2504" width="168" height="200" rx="24" fill="#E0F5FF"/><text x="100" y="2538" font-family="Onest, Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#21201F" text-anchor="start" >Свой ритм</text><g id="home-tile/rover" transform="translate(104 2568) scale(0.95)"><g transform="scale(0.125) translate(-220 -100)">
+  <ellipse cx="520" cy="886" rx="280" ry="12" fill="#21201F" opacity="0.12"/>
+  <path d="M285 712 H770 L742 792 H318 Z" fill="#222222"/>
+  <path d="M250 520 H600 V722 H284 Q250 722 250 688 Z" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="6"/>
+  <path d="M250 520 V510 Q250 470 292 470 H600 V520 Z" fill="#ECECEC" stroke="#D2D0CC" stroke-width="6"/>
+  <line x1="252" y1="522" x2="598" y2="522" stroke="#8FB6DE" stroke-width="5"/>
+  <rect x="300" y="560" width="250" height="124" rx="18" fill="#00ADFF"/>
+  <rect x="330" y="150" width="8" height="320" rx="4" fill="#3A3A3A"/>
+  <rect x="310" y="104" width="34" height="96" rx="15" fill="#EF4A2F" transform="rotate(-8 327 152)"/>
+  <circle cx="333" cy="482" r="18" fill="#1C1C1C"/>
+  <path d="M560 466 H712 Q792 466 792 546 V700 Q792 762 730 762 H560 Z" fill="#1C1C1C"/>
+  <rect x="738" y="516" width="46" height="172" rx="20" fill="#2C2C2C"/>
+  <rect x="757" y="546" width="13" height="112" rx="6.5" fill="#EAF6FF" stroke="#7CC8FF" stroke-width="3"/>
+  <path d="M598 470 Q598 420 630 412 H668 Q700 420 700 470 Z" fill="#1C1C1C"/>
+  <circle cx="606" cy="446" r="16" fill="#1C1C1C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="626" y="378" width="44" height="36" rx="8" fill="#1C1C1C"/>
+  <rect x="630" y="386" width="36" height="12" rx="4" fill="#2F7DD8"/>
+  <g fill="#111111"><circle cx="345" cy="822" r="66"/><circle cx="520" cy="822" r="66"/><circle cx="695" cy="822" r="66"/></g>
+  <g fill="#3A3A3A"><circle cx="345" cy="822" r="30"/><circle cx="520" cy="822" r="30"/><circle cx="695" cy="822" r="30"/></g>
+</g></g><text x="100" y="2686" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#8A8784" text-anchor="start" >4 из 8 · до чт</text></g>
+<g id="demo-button/1"><rect x="380" y="2504" width="149" height="40" rx="20" fill="#E0F5FF" stroke="#00ADFF" stroke-width="1.5"/><text x="454.5" y="2529" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >Сделать заказ</text></g>
+<g id="demo-button/2"><rect x="541" y="2504" width="113" height="40" rx="20" fill="#E0F5FF" stroke="#00ADFF" stroke-width="1.5"/><text x="597.5" y="2529" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >Доставить</text></g>
+<g id="demo-button/3"><rect x="666" y="2504" width="104" height="40" rx="20" fill="#E0F5FF" stroke="#00ADFF" stroke-width="1.5"/><text x="718.0" y="2529" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >Отменить</text></g>
+<g id="demo-button/4"><rect x="782" y="2504" width="113" height="40" rx="20" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="1.5"/><text x="838.5" y="2529" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >+12 часов</text></g>
+<g id="demo-button/5"><rect x="907" y="2504" width="95" height="40" rx="20" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="1.5"/><text x="954.5" y="2529" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >+1 день</text></g>
+<g id="demo-button/6"><rect x="1014" y="2504" width="77" height="40" rx="20" fill="#FFFFFF" stroke="#D2D0CC" stroke-width="1.5"/><text x="1052.5" y="2529" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#21201F" text-anchor="middle" >Сброс</text></g></svg>

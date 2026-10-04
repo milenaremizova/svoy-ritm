@@ -1,4 +1,3 @@
-import { data } from "react-router-dom";
 import type { OrderRecord, StreakPossibleEvent, StreakState } from "./types";
 
 export const START_FREEZES = 1; // заморозок на старте новой серии
@@ -22,6 +21,21 @@ const DAY_MS = 24 * 60 * 60 * 1000;
 function recordOfBest(state: StreakState, stops: number): number {
     return Math.max(state.bestStopsLine, stops);
 };
+
+function pushLog(state: StreakState, line: string): string[] {
+    return [
+        line,
+        ...state.log
+    ].slice(0, 6);
+}
+
+function fmtTime(iso: string): string {
+    return new Date(iso).toLocaleString("ru-RU", {
+        weekday: "short",
+        hour: "2-digit",
+        minute: "2-digit",
+    });
+}
 
 export function createInitialState(now: string): StreakState {
   return {
@@ -174,8 +188,8 @@ export function applyEvent(prev: StreakState, event: StreakPossibleEvent): Strea
 
             const personalRhythmDays = computeRhythmDays(history);
             const windowDays = state.faster
-            ? Math.max(MIN_RHYTHM_DAYS, rhythmDays - 1)
-            : rhythmDays;
+            ? Math.max(MIN_RHYTHM_DAYS, personalRhythmDays - 1)
+            : personalRhythmDays;
 
             const deadlineAt = new Date(Date.parse(state.now) + (windowDays + 1) * DAY_MS).toISOString();
             const levelForIncrease: 1 | 2 = newStops >= LEVEL2_FROM_STOP - 1
@@ -214,7 +228,7 @@ export function applyEvent(prev: StreakState, event: StreakPossibleEvent): Strea
                 ...state,
                 selectedGoalStops: event.stops,
                 selectedGoalDeadlineAt,
-                log: logPush(state, `${fmtTime(state.now)} цель - ${event.stops} остановок`),
+                log: pushLog(state, `${fmtTime(state.now)} цель - ${event.stops} остановок`),
             };
         }
 

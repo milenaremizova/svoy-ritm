@@ -1,0 +1,18 @@
+.row {
+  display: flex;
+  gap: 4px;
+}
+
+.segment {
+  flex: 1;
+  height: 8px;
+  border-radius: var(--radius-pill);
+  background: var(--color-field);
+}
+
+.done { background: var(--color-blue); }
+
+.current {
+  background: var(--color-bg);
+  border: 1.5px dashed var(--color-blue);
+}

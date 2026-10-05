@@ -1,0 +1,52 @@
+.card {
+  position: relative;
+  padding: 16px;
+  border-radius: var(--radius-l);
+  border: 1.5px solid transparent;
+  font-family: var(--font-family);
+  color: var(--color-ink);
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 13px;
+}
+
+.label { color: var(--color-ink-2); }
+.progress { font-weight: 600; }
+
+.big {
+  margin-top: 4px;
+  padding-right: 80px; /* место под картинку в углу */
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.small {
+  margin-top: 6px;
+  padding-right: 80px;
+  font-size: 14px;
+  color: var(--color-ink-2);
+}
+
+.corner {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.restart { margin-top: 12px; }
+
+/* фон по статусу — см. таблицу выше */
+.active  { background: var(--color-blue-tint); }
+.atRisk  { background: var(--color-red-tint); }
+.atRisk .big { color: var(--color-red); }
+.frozen  { background: var(--color-blue-tint); border-color: var(--color-frost); }
+.broken  { background: var(--color-field); }
+.levelUp { background: var(--color-orange-tint); }

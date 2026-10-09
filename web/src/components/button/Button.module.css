@@ -12,6 +12,16 @@
   cursor: pointer;
 }
 
+.icon {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  padding: 0;
+  border-radius: 50%;
+  background: var(--color-surface);
+  color: var(--color-ink); /* currentColor в SVG берёт этот цвет */
+}
+
 .primary { background: var(--color-coin); color: var(--color-ink); }
 .secondary { background: var(--color-surface); color: var(--color-ink); }
 .outline { background: #fff; border-color: var(--color-blue); color: var(--color-blue-deep); }

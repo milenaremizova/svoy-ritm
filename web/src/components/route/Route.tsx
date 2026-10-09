@@ -1,4 +1,4 @@
-import { Rover } from "./Rover";
+import { Rover } from "../rover/Rover";
 import styles from "./Route.module.css";
 
 const ROW_H = 56;

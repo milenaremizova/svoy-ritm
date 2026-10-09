@@ -1,4 +1,4 @@
-import { Rover } from "./Rover";
+import { Rover } from "../rover/Rover";
 import styles from "./Chip.module.css";
 
 type ChipStatus = "default" | "atRisk" | "inTransit" | "broken";

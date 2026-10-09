@@ -1,6 +1,6 @@
-import { Rover } from "./Rover";
-import { Battery } from "./Battery";
-import { Button } from "./Button";
+import { Rover } from "../rover/Rover";
+import { Battery } from "../battery/Battery";
+import { Button } from "../button/Button";
 import styles from "./DeadlineCard.module.css";
 
 export type DeadlineCardStatus =

@@ -1,4 +1,4 @@
-import { Coin } from "./Coin";
+import { Coin } from "../coin/Coin";
 import styles from "./GoalCard.module.css";
 
 type GoalCardProps = {

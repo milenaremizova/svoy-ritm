@@ -1,0 +1,58 @@
+.row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 0;
+  font-family: var(--font-family);
+  color: var(--color-ink);
+}
+
+.info {
+  flex: 1;
+  min-width: 0;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.priceRow {
+  display: flex;
+  gap: 8px;
+  margin-top: 2px;
+  font-size: 14px;
+}
+
+.price { font-weight: 700; }
+.weight { color: var(--color-ink-2); }
+
+.stepper {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  height: 36px;
+  padding: 0 4px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  font-weight: 600;
+}
+
+.stepper button {
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  font-size: 18px;
+  color: var(--color-ink);
+  cursor: pointer;
+}
+
+.stepper span {
+  min-width: 16px;
+  text-align: center;
+}

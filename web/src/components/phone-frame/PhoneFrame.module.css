@@ -1,0 +1,22 @@
+.frame {
+  width: 375px;
+  height: 812px;
+  flex-shrink: 0;                 /* не сжимается, если рядом DevPanel */
+  box-sizing: content-box;        /* рамка снаружи, экран ровно 375×812 */
+  border: 10px solid var(--color-ink);
+  border-radius: 48px;
+  background: var(--color-bg);
+  overflow: hidden;               /* обрезает контент по скруглению */
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+}
+
+.content {
+  position: relative;             /* якорь для absolute-элементов внутри экрана */
+  height: 100%;
+  overflow-y: auto;               /* скролл внутри телефона, а не всей страницы */
+  scrollbar-width: none;          /* спрятать полосу прокрутки */
+  font-family: var(--font-family);
+  color: var(--color-ink);
+}
+
+.content::-webkit-scrollbar { display: none; }

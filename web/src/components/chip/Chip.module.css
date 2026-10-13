@@ -1,0 +1,19 @@
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 14px 4px 6px;
+  border-radius: var(--radius-pill);
+  border: 1.5px solid transparent;
+  font-family: var(--font-family);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+button.chip { cursor: pointer; }
+
+.default   { background: var(--color-blue-tint);  border-color: var(--color-blue); }
+.atRisk    { background: var(--color-red-tint);   border-color: var(--color-red);   color: var(--color-red); }
+.inTransit { background: var(--color-green-tint); border-color: var(--color-green); color: var(--color-green); }
+.broken    { background: var(--color-field);      border-color: var(--color-line);  color: var(--color-ink-2); }

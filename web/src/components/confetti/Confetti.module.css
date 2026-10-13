@@ -1,0 +1,14 @@
+.confetti {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  pointer-events: none; /* не мешает кликам по тому, что под ним */
+  animation: pop 0.5s ease-out;
+}
+
+/* лёгкое появление один раз при открытии экрана */
+@keyframes pop {
+  from { opacity: 0; transform: translateX(-50%) scale(0.6); }
+  to   { opacity: 1; transform: translateX(-50%) scale(1); }
+}

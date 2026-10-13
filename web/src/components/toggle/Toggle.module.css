@@ -1,0 +1,13 @@
+.track {
+  width: 52px; height: 32px; padding: 4px;
+  border-radius: var(--radius-pill);
+  background: var(--color-field);
+  cursor: pointer; transition: background 0.15s;
+  flex-shrink: 0;
+}
+.on { background: var(--color-blue); }
+.thumb {
+  width: 24px; height: 24px; border-radius: 50%;
+  background: #fff; transition: transform 0.15s;
+}
+.on .thumb { transform: translateX(20px); }

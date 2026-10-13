@@ -110,14 +110,14 @@ function computeReward(orderId: string, levelForIncrease: 1 | 2, stops: number, 
     return Math.min(raw, cap);
 };
 
-function applyFreeze(state: StreakState): StreakState {
-    if (!state.deadlineAt || state.status !== "active") return state;
-    if (Date.parse(state.now) <= Date.parse(state.deadlineAt)) return state;
-
-    if (state.freezesForStreak > 0) {
-        const newDeadline = new Date(Date.parse(state.deadlineAt) + state.personalRhythmDays * DAY_MS).toISOString();
-        return { ...state, freezesForStreak: state.freezesForStreak - 1, deadlineAt: newDeadline, lastEventType: "freeze-applied" };
-    }
+function applyFreeze(state: StreakState, deadlineAt: string): StreakState {
+    const newDeadline = new Date(Date.parse(deadlineAt) + state.personalRhythmDays * DAY_MS).toISOString();
+    return {
+        ...state,
+        freezesForStreak: state.freezesForStreak - 1,
+        deadlineAt: newDeadline,
+        lastEventType: "freeze-applied"
+    };
 };
     
 function breakStreak(state: StreakState): StreakState {
@@ -136,12 +136,11 @@ function breakStreak(state: StreakState): StreakState {
 };
 
 function settle(state: StreakState): StreakState {
-    if (!state.deadlineAt || state.status !== "active") return state;
-    if (Date.parse(state.now) <= Date.parse(state.deadlineAt)) return state;
+    const { deadlineAt } = state;
+    if (!deadlineAt || state.status !== "active") return state;
+    if (Date.parse(state.now) <= Date.parse(deadlineAt)) return state;
 
-    return state.freezesForStreak > 0
-    ? applyFreeze(state)
-    : breakStreak(state)
+    return state.freezesForStreak > 0 ? applyFreeze(state, deadlineAt) : breakStreak(state);
 };
 
 export function applyEvent(prev: StreakState, event: StreakPossibleEvent): StreakState {

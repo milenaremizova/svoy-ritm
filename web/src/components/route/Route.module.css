@@ -1,0 +1,46 @@
+.wrap {
+  position: relative;
+  margin: 0 auto;
+}
+
+.futureLine {
+  fill: none;
+  stroke: var(--color-blue);
+  stroke-width: 4;
+  stroke-dasharray: 2 10;
+  stroke-linecap: round;
+}
+
+.pastLine {
+  fill: none;
+  stroke: var(--color-orange);
+  stroke-width: 4;
+  stroke-linecap: round;
+}
+
+.doneStop { fill: var(--color-blue); }
+
+.check {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.halo { fill: var(--color-blue-tint); }
+
+.nextStop {
+  fill: #fff;
+  stroke: var(--color-blue);
+  stroke-width: 3;
+}
+
+.futureStop {
+  fill: #fff;
+  stroke: var(--color-line);
+  stroke-width: 3;
+}
+
+.pole { fill: var(--color-ink); }
+.flag { fill: var(--color-red); }
